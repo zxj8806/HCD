@@ -1,0 +1,11 @@
+{
+  "run_id": "run1",
+  "created_at": "2025-07-23 19:49:04",
+  "epochs": 1000,
+  "optimizer": "Adam",
+  "lr": 0.01,
+  "kappa_lr": 0.001,
+  "dataset": "Cora",
+  "best_acc": 0.0,
+  "model_class": "CVGAE"
+}
